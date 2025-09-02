@@ -1,5 +1,13 @@
-# On the Futility of the Klein-Hazony Dialogue
-### Two Failed Protocols for Capitalist Management
+---
+title: "On the Futility of the Klein-Hazony Dialogue"
+date: 2025-08-01
+draft: false
+description: "Two Failed Protocols for Capitalist Management: A materialist analysis of the public exchange between Ezra Klein and Yoram Hazony"
+tags: ["political analysis", "capitalism", "dialectics", "fascism", "liberalism"]
+categories: ["analysis"]
+---
+<!-- # On the Futility of the Klein-Hazony Dialogue -->
+## Two Failed Protocols for Capitalist Management
 
 The public exchange between Ezra Klein and Yoram Hazony, staged as a civil inquiry into the future of the American political order, must be analyzed not as a debate to be won, but as a diagnostic of systemic decay. It is a superstructural performance in which two competing factions of the ruling class articulate their preferred strategies for managing the intractable contradictions of late capitalism. To engage this dialogue on its own terms—to morally condemn Klein for the act of “platforming” or to dismiss Hazony with the simple epithet of “fascist”—is to remain ensnared within the very ideological framework that requires dismantling. A materialist analysis, grounded in the principles of a negative dialectic, must refuse this trap. It must treat both interlocutors not as sovereign moral agents, but as functionaries of distinct, yet ultimately complementary, systems of social control. The interview is a clinical exhibition of a failed Reified Symbolic Mandate (RSM), that of liberal creedalism, attempting to apply its obsolete logical protocols to a new and aggressive political technology, National Conservatism, whose very existence is a material counterexample—a “Russell’s Monster”—to the liberal order’s claim of universal validity.
 

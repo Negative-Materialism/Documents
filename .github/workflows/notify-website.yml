@@ -1,0 +1,39 @@
+name: Notify Website to bump content
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repository_dispatch to Website
+        env:
+          GH_TOKEN: ${{ secrets.WEBSITE_REPO_DISPATCH_TOKEN }}
+        run: |
+          set -euo pipefail
+          owner="Negative-Materialism"
+          website_repo="Website"
+          event_type="documents-updated"
+
+          # Optional sanity check: fail early if secret is missing
+          if [ -z "${GH_TOKEN:-}" ]; then
+            echo "Missing secret WEBSITE_REPO_DISPATCH_TOKEN"
+            exit 1
+          fi
+
+          resp=$(curl -s -o /dev/null -w "%{http_code}" \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            "https://api.github.com/repos/${owner}/${website_repo}/dispatches" \
+            -d "{\"event_type\": \"${event_type}\"}")
+
+          if [ "$resp" != "204" ]; then
+            echo "repository_dispatch failed with HTTP ${resp}"
+            exit 1
+          fi
+
+          echo "Dispatched '${event_type}' to ${owner}/${website_repo}"

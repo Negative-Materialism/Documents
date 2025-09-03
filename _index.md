@@ -1,17 +1,12 @@
 ---
-# title: My Site
+# title: "Negative Materialism"
 toc: false
 ---
 
-<!-- This is the landing page. -->
+# Negative Materialism
 
-<!-- ## Explore -->
+Critical analysis of contemporary political economy and class struggle.
 
-<!-- {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}} -->
+## Recent Posts
 
-<!-- ## Documentation -->
-
-<!-- For more information, visit [Hextra](https://imfing.github.io/hextra). -->
+{{< recent-posts >}}

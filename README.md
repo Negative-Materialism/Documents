@@ -2,6 +2,57 @@
 
 A Hugo-based website using the Hextra theme for the Negative Materialism framework - a dialectical anti-synthesis approach to critiquing late-capitalist class struggle through practical dissection of immediate material conditions.
 
+## Contributing
+
+### How to Contribute
+
+We encourage participation from anyone interested in the Negative Materialism framework. There are several ways to contribute:
+
+#### 1. Submit Content to the Documents Repository
+- Visit [https://github.com/Negative-Materialism/Documents](https://github.com/Negative-Materialism/Documents)
+- Submit pull requests with new analysis, documentation, or corrections
+- Follow the existing content structure and formatting
+
+#### 2. Edit This Website Directly
+- Click the "Edit this page on GitHub" button (appears on every page)
+- Make your changes directly in the browser
+- Submit a pull request for review
+
+#### 3. Content Guidelines
+
+When contributing content:
+
+- Use clear, accessible language
+- Include proper front matter with title, date, description, and tags
+- Add relevant tags for discoverability
+- Keep analysis grounded in material conditions
+- Follow the existing writing style and tone
+
+#### 4. Technical Contributions
+
+- Report bugs or suggest improvements
+- Contribute to the Hugo configuration
+- Improve accessibility or performance
+- Add new shortcodes or features
+
+### Getting Started
+
+1. **Fork the repository** on GitHub
+2. **Clone your fork** locally
+3. **Install Hugo** (extended version recommended)
+4. **Run the development server**: `hugo server -D`
+5. **Make your changes** and test locally
+6. **Submit a pull request**
+
+### Content Creation Workflow
+
+1. Create a new `.md` file in the appropriate directory
+2. Add proper front matter with metadata
+3. Write your content using Markdown
+4. Use shortcodes for special features
+5. Test locally with `hugo server -D`
+6. Submit via pull request
+
 ## About This Site
 
 This website is built with [Hugo](https://gohugo.io/) and the [Hextra theme](https://github.com/imfing/hextra), providing a modern, fast, and accessible platform for publishing analysis and documentation.
@@ -225,57 +276,6 @@ The site uses Hextra with custom configurations in `hugo.yaml`:
 - **Edit links** pointing to GitHub
 - **Custom menu** with social links
 - **Logo support** with light/dark variants
-
-## Contributing
-
-### How to Contribute
-
-We encourage participation from anyone interested in the Negative Materialism framework. There are several ways to contribute:
-
-#### 1. Submit Content to the Documents Repository
-- Visit [https://github.com/Negative-Materialism/Documents](https://github.com/Negative-Materialism/Documents)
-- Submit pull requests with new analysis, documentation, or corrections
-- Follow the existing content structure and formatting
-
-#### 2. Edit This Website Directly
-- Click the "Edit this page on GitHub" button (appears on every page)
-- Make your changes directly in the browser
-- Submit a pull request for review
-
-#### 3. Content Guidelines
-
-When contributing content:
-
-- Use clear, accessible language
-- Include proper front matter with title, date, description, and tags
-- Add relevant tags for discoverability
-- Keep analysis grounded in material conditions
-- Follow the existing writing style and tone
-
-#### 4. Technical Contributions
-
-- Report bugs or suggest improvements
-- Contribute to the Hugo configuration
-- Improve accessibility or performance
-- Add new shortcodes or features
-
-### Getting Started
-
-1. **Fork the repository** on GitHub
-2. **Clone your fork** locally
-3. **Install Hugo** (extended version recommended)
-4. **Run the development server**: `hugo server -D`
-5. **Make your changes** and test locally
-6. **Submit a pull request**
-
-### Content Creation Workflow
-
-1. Create a new `.md` file in the appropriate directory
-2. Add proper front matter with metadata
-3. Write your content using Markdown
-4. Use shortcodes for special features
-5. Test locally with `hugo server -D`
-6. Submit via pull request
 
 ### Author System Implementation
 

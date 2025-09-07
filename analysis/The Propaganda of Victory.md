@@ -2,7 +2,7 @@
 title: "The Propaganda of Victory"
 date: 2025-09-01
 draft: false
-description: "A materialist analysis of the National Review's celebratory obituary for organized labor, exposing the ideological machinery of class warfare and the strategic path forward for worker resistance"
+description: "Fuck the National Review's celebratory obituary for organized labor."
 tags: ["capitalism", "dialectics", "liberalism", "labor", "unions", "class-warfare"]
 categories: ["analysis"]
 ---

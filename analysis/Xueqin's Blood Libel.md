@@ -2,8 +2,8 @@
 title: "Xueqin's Blood Libel"
 date: 2025-09-06
 draft: false
-description: "A materialist analysis of the National Review's celebratory obituary for organized labor, exposing the ideological machinery of class warfare and the strategic path forward for worker resistance"
-tags: ["capitalism", "dialectics", "liberalism", "labor", "unions", "class-warfare"]
+description: "An attack on Jiang Xueqin’s poorly argued 'ritual sacrifice' thesis on Gaza."
+tags: ["israel", "palestine", "colonialism", "necropolitics", "imperialism", "antisemitism", "ideology", "genocide"]
 categories: ["analysis"]
 ---
 <!-- # Xueqin's Blood Libel -->

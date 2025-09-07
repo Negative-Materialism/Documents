@@ -2,7 +2,7 @@
 title: "Futility of the Klein-Hazony Dialogue"
 date: 2025-08-15
 draft: false
-description: "Two Failed Protocols for Capitalist Management: A materialist analysis of the public exchange between Ezra Klein and Yoram Hazony"
+description: "On the public exchange between Ezra Klein and Yoram Hazony."
 tags: ["capitalism", "dialectics", "fascism", "liberalism", "anti-fascism"]
 categories: ["analysis"]
 ---

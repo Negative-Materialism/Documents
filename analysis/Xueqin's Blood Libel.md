@@ -1,7 +1,7 @@
 ---
 title: Xueqin's Blood Libel
 date: 2025-09-06
-draft: false
+draft: true
 description: An attack on Jiang Xueqin’s poorly argued 'ritual sacrifice' thesis on Gaza.
 tags:
   - israel
@@ -22,10 +22,7 @@ author:
 
 The assertion by Prof Jiang Xueqin that the ongoing extermination campaign in Gaza constitutes a "ritual sacrifice" is a profound academic and methodological failure. It represents a categorical error that replaces the rigorous analysis of material power with a descent into theological fantasy. This framework is not merely incorrect; it is a disabling mystification that obscures the concrete political economy of settler-colonial violence.
 
-{{< youtube
-  "sS9xidsyxXY"
-  "Israel Wants to Unite Itself by Breaking the World"
->}}
+{{< youtube "sS9xidsyxXY" "Israel Wants to Unite Itself by Breaking the World" >}}
 
 By invoking archaic sacrificial rites and eschatological scripts, such an interpretation depoliticizes a thoroughly modern project of administrative mass killing, rendering it an inevitable, mythic drama rather than a contingent outcome of specific institutional and class forces. A correct analysis must begin by rejecting this entire conceptual apparatus. It must ground itself in a negative materialist framework that treats the state, its imperial patrons, and the logic of capital accumulation as the primary objects of inquiry. The task is not to decipher a hidden religious motive but to map the logistical, financial, and ideological infrastructure that makes the slaughter possible. The violence is not a sacrament performed for a hidden god; it is a technique of rule, a pedagogy of terror, and a function of a global system of domination. The goal here is to dismantle this sacrificial alibi and replace it with a disciplined, unsentimental anatomy of power. This requires stripping the halo from the gun and examining the material base upon which the entire edifice of violence rests, identifying its vulnerabilities not in scripture, but in its supply chains.
 

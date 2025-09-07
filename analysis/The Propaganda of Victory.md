@@ -1,7 +1,7 @@
 ---
 title: The Propaganda of Victory
 date: 2025-09-01
-draft: false
+draft: true
 description: Fuck the National Review's celebratory obituary for organized labor.
 tags:
   - capitalism

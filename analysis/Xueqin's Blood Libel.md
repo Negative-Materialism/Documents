@@ -1,10 +1,21 @@
 ---
-title: "Xueqin's Blood Libel"
+title: Xueqin's Blood Libel
 date: 2025-09-06
 draft: false
-description: "An attack on Jiang Xueqin’s poorly argued 'ritual sacrifice' thesis on Gaza."
-tags: ["israel", "palestine", "colonialism", "necropolitics", "imperialism", "antisemitism", "ideology", "genocide"]
-categories: ["analysis"]
+description: An attack on Jiang Xueqin’s poorly argued 'ritual sacrifice' thesis on Gaza.
+tags:
+  - israel
+  - palestine
+  - colonialism
+  - necropolitics
+  - imperialism
+  - antisemitism
+  - ideology
+  - genocide
+categories:
+  - analysis
+author:
+  - Spencer Thayer
 ---
 <!-- # Xueqin's Blood Libel -->
 ## Israel's administration of necropolitics is not a sacred rite 

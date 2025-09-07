@@ -1,10 +1,17 @@
 ---
-title: "Futility of the Klein-Hazony Dialogue"
+title: Futility of the Klein-Hazony Dialogue
 date: 2025-08-15
 draft: false
-description: "On the public exchange between Ezra Klein and Yoram Hazony."
-tags: ["capitalism", "dialectics", "fascism", "liberalism", "anti-fascism"]
-categories: ["analysis"]
+description: On the public exchange between Ezra Klein and Yoram Hazony.
+tags:
+  - capitalism
+  - dialectics
+  - fascism
+  - liberalism
+  - anti-fascism
+categories:
+  - analysis
+author: ["Spencer Thayer"]
 ---
 
 > To win the proletariat, the left must pierce the blood-and-soil illusion and discard the theater of Liberalism against Fascism; both only dispute the terms of managing decay, never the possibility of emancipation.

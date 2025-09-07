@@ -1,10 +1,19 @@
 ---
-title: "The Propaganda of Victory"
+title: The Propaganda of Victory
 date: 2025-09-01
 draft: false
-description: "Fuck the National Review's celebratory obituary for organized labor."
-tags: ["capitalism", "dialectics", "liberalism", "labor", "unions", "class-warfare"]
-categories: ["analysis"]
+description: Fuck the National Review's celebratory obituary for organized labor.
+tags:
+  - capitalism
+  - dialectics
+  - liberalism
+  - labor
+  - unions
+  - class-warfare
+categories:
+  - analysis
+author:
+  - Spencer Thayer
 ---
 <!-- # The Propaganda of Victory -->
 ## Fuck the National Review Bootlickers

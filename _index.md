@@ -8,8 +8,7 @@ toc: false
   <span class="blur">Materialism</span>
 </h1>
 
-A framewwork based on dialectical anti-synthesis to use as a critique of the late-capitalist class struggle with a practical dissection of the immediate material conditions of survival and control.
+Is a dialectical method using ***anti-synthesis*** to critique this stage of _contraction-capitalism_ and the class antagonisms within it. We hope to arm people with practical tools to improve their immediate material conditions, extend collective freedom, and build real class power.
 
-## Recent Posts
-
-{{< recent-posts >}}
+## Recent Analysis
+{{< recent-posts "analysis" >}}

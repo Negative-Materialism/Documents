@@ -1,8 +1,8 @@
 ---
-title: The Propaganda of Victory
+title: Dancing on Labor’s Grave
 date: 2025-09-01
 draft: true
-description: Fuck the National Review's celebratory obituary for organized labor.
+description: Attacking the National Review's celebratory obituary for organized labor.
 tags:
   - capitalism
   - dialectics
@@ -15,8 +15,7 @@ categories:
 author:
   - Spencer Thayer
 ---
-<!-- # The Propaganda of Victory -->
-## Fuck the National Review Bootlickers
+## The National Review Bootlickers Are At It Again
 
 The celebratory obituary for organized labor published by the National Review on Labor Day 2025 must not be engaged on its own terms. To do so, to debate its statistical manipulations or its ideological pronouncements on worker preference, is to step willingly into a prepared kill-zone. This article is not an analysis of labor's decline, but rather an artifact of class warfare, a weaponized narrative deployed to neutralize the very possibility of collective working-class solidarity. Its function is to pathologize resistance, to frame solidarity as a predatory pathology inflicted upon an otherwise contented workforce. A correct strategic response does not refute the weapon; it dissects its mechanism to render it inert. This requires that we abandon their bourgeois frame, whereby they sublimate material antagonism into a polite ideological debate, and instead handle the text as a site for strategic unmaking. The objective is not to win a debate but to expose the operational logic of the ideological machinery it represents. The article's power is derived from its appeal to a series of fraudulent universals: _the sovereign individual_, the inherent _evil of monopoly_, the organic _wisdom of the market_. Our task is to demonstrate that these are not timeless truths but highly specific, domain-restricted logical protocols whose coherence disintegrates upon contact with concrete material reality. The argument is a sophisticated exercise in ideological purification, a desperate attempt to maintain the integrity of a formal system against the onslaught of lived experience. We are here not to argue with the prison guard, but to validate the reality of the world outside the cage and recognize it as the negation of a fraudulent order. This is not an argument to be answered but a weapon to be broken.
 

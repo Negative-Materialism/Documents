@@ -2,7 +2,7 @@
 title: Xueqin's Blood Libel
 date: 2025-09-06
 draft: false
-description: An attack on Jiang Xueqin’s poorly argued 'ritual sacrifice' thesis on Gaza.
+description: Jiang Xueqin’s poorly argued 'ritual sacrifice' thesis is extremely dangerous.
 tags:
   - israel
   - palestine

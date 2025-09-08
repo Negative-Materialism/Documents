@@ -1,4 +1,4 @@
-# Negative Materialism Website
+# Negative Materialism
 
 A Hugo-based website using the Hextra theme for the Negative Materialism framework - a dialectical anti-synthesis approach to critiquing late-capitalist class struggle through practical dissection of immediate material conditions.
 

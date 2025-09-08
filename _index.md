@@ -2,7 +2,6 @@
 # title: "Negative Materialism"
 toc: false
 ---
-
 <h1 class="site_title">
   <span class="blur">Negative</span>
   <span class="blur">Materialism</span>

@@ -14,6 +14,8 @@ categories:
 author:
   - Spencer Thayer
 ---
+## Liberalism cannot defeat Fascism in a polite debate.
+
 {{< youtube "Qa_PCNgW79E" "The Man Driving the Nationalist Revival on the Right" >}}
 
 The exchange between **Ezra Klein** and **Yoram Hazony** is not really a debate about the “soul of the nation.” It is a display of a system in deep crisis. To treat it as a clash of ideas, weighing who makes the cleaner argument, misses the point. What they present are rival management strategies for the decline of capitalism, dressed up as philosophy. Klein represents a collapsing liberal order that insists debate and reason can guide us back to stability. Hazony represents an emerging fascism that promises order through hierarchy, exclusion, and coercion. Neither offers liberation. Both aim to preserve the system of exploitation, Klein with the fading language of “shared principles” and Hazony with the blunt discipline of authoritarian nationalism.  

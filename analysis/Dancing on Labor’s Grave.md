@@ -15,7 +15,7 @@ categories:
 author:
   - Spencer Thayer
 ---
-## The National Review Bootlickers Are At It Again
+## The National Review bootlickers were at it again.
 
 > What the National Review declares buried is not labor itself, but a failed model of labor. The power to resist still remains in the hands and minds of workers everywhere. It is simply waiting to be rediscovered, armed with new tactics suited to the fragile and globalized economy of today.
 

@@ -2,7 +2,7 @@
 title: The Fascist Rebranding of Empire
 description: Trump’s purge of a four decade vigil and revival of war branding reveal power’s need for erasure and spectacle.
 date: 2025-09-08
-draft: true
+draft: false
 tags:
   - fascism
   - state-violence

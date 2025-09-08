@@ -1,8 +1,8 @@
 ---
 title: Dancing on Labor’s Grave
+description: Attacking the National Review's celebratory obituary for organized labor.
 date: 2025-09-01
 draft: false
-description: Attacking the National Review's celebratory obituary for organized labor.
 tags:
   - capitalism
   - dialectics

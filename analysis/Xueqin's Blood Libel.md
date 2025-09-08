@@ -1,8 +1,8 @@
 ---
 title: Xueqin's Blood Libel
+description: Jiang Xueqin’s poorly argued 'ritual sacrifice' thesis is extremely dangerous.
 date: 2025-09-06
 draft: false
-description: Jiang Xueqin’s poorly argued 'ritual sacrifice' thesis is extremely dangerous.
 tags:
   - israel
   - palestine

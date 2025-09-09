@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Send repository_dispatch to Website
         env:
-          GH_TOKEN: ${{ secrets.WEBSITE_REPO_DISPATCH_TOKEN }}
+          WEBSITE_REPO_DISPATCH_TOKEN: ${{ secrets.WEBSITE_REPO_DISPATCH_TOKEN }}
         run: |
           set -euo pipefail
           owner="Negative-Materialism"
@@ -19,7 +19,7 @@ jobs:
           event_type="documents-updated"
 
           # Optional sanity check: fail early if secret is missing
-          if [ -z "${GH_TOKEN:-}" ]; then
+          if [ -z "${WEBSITE_REPO_DISPATCH_TOKEN:-}" ]; then
             echo "Missing secret WEBSITE_REPO_DISPATCH_TOKEN"
             exit 1
           fi
@@ -27,7 +27,7 @@ jobs:
           resp=$(curl -s -o /dev/null -w "%{http_code}" \
             -X POST \
             -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "Authorization: Bearer ${WEBSITE_REPO_DISPATCH_TOKEN}" \
             "https://api.github.com/repos/${owner}/${website_repo}/dispatches" \
             -d "{\"event_type\": \"${event_type}\"}")
 

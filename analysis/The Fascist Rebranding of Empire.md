@@ -20,23 +20,7 @@ author:
 {{< image src="peace-vigil.jpg" alt="Concepcion Picciotto, also known as Conchita or Connie, is seen at her daily protest in front of the White House on March 5, 2010 in Washington, DC. Picciotto lived in the small camp on Lafayette Square directly opposite the presidential mansion since August 1, 1981 in protest of nuclear arms."
 credits="AFP/Getty Images" >}}
 
-Here is a rewritten version of your essay. I have preserved its intensity and imagery while tightening clarity, sharpening continuity, and making explicit the fascist character of the program you describe. I reframed several sections so that fascism is not an implied analogy but directly analyzed as the logic binding the acts together.
-
-  
-
-  
-
-  
-
-  
-
-The Fascist Rebranding of Empire
-
-  
-
-  
-
-Trump’s purge of a four-decade peace vigil and the revival of “war” branding reveal fascism’s reliance on erasure, spectacle, and militarized obedience.
+## Trump’s purge of a four-decade peace vigil and the revival of “war” branding reveal fascism’s reliance on erasure, spectacle, and militarized obedience.
 
 A tent once stood across from the White House, quiet but insistent. It was not decoration; it was indictment. It posed the oldest political question in its simplest form: why must power rest on the threat of organized death? For forty-four years it embodied memory against forgetting, conscience against empire. Its destruction was not housekeeping but political theater. By dismantling the vigil while simultaneously rebranding the “Department of Defense” as the “Department of War,” the state announced its direction openly. Dissent will be cleared. War will be celebrated. The sequence is not coincidence,  it is fascist choreography.
 

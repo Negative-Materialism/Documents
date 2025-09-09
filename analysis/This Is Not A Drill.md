@@ -17,9 +17,9 @@ categories:
 author:
   - Spencer Thayer
 ---
-## The revolutionary imperative is to destroy the fascist state, not merely survive it.
+## Our duty is to destroy the fascist state, not merely survive it.
 
-We must begin with a clarity that dispenses with all bourgeois illusions. The world of liberal democracy, a thin veneer over the dictatorship of capital, is not coming back. Yes, it was never truly here for the exploited but we are replacing it with something far worse. The current regimes machinations are not a cyclical turn in American politics but the deliberate consolidation of a fascist project, the structural transformation of the capitalist state into an apparatus of permanent terror. This is ann open declaration of war against the working class and all oppressed people.
+We must begin with a clarity that dispenses with all bourgeois illusions. The world of liberal democracy, a thin veneer over the dictatorship of capital, is not coming back. Yes, it was never truly here for the exploited but we are witnessing it be replacedwith something far worse. The current regime's machinations are not a cyclical turn in American politics but the deliberate consolidation of a fascist project, the structural transformation of the capitalist state into an apparatus of permanent terror. This is an open declaration of war against the working class and all oppressed people.
 
 The military occupation of Washington D.C., justified by the fabricated lie of a "crime emergency" while actual crime plummets, demonstrates the core principle of this new order: power is truth, and reality will be manufactured at the end of a gun. This is not merely deception; it is a profound assault on our shared existence, a weapon designed to atomize us, to make collective understanding and thus collective resistance impossible. It is the declaration that force, not evidence, is the final arbiter of what is real. This dictatorship assembles itself in daylight, using the component parts of the old system to build a new, more nakedly brutal whole. Each executive order, each loyalist prosecutor, each reallocated budget is a brick in the wall of our prison.
 

@@ -16,6 +16,7 @@ categories:
   - analysis
 author:
   - Spencer Thayer
+social-image: charlie_kirk.png
 ---
 ##  Kirk’s cynical calculation that gun deaths were worth the price for liberty perfectly encapsulates the logic of capital. 
 

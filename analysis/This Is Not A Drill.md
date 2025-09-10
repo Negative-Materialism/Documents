@@ -2,7 +2,7 @@
 title: This Is Not A Drill
 description: Trump’s regime is a fascist revolution and we must stop it.
 date: 2025-08-11
-draft: false
+draft: true
 tags:
   - capitalism
   - liberalism

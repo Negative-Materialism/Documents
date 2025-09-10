@@ -5,13 +5,13 @@ date: 2025-08-11
 draft: false
 tags:
   - capitalism
-  - dialectics
   - liberalism
   - labor
   - unions
   - class-warfare
   - fascism
   - Trump
+  - insurrection
 categories:
   - analysis
 author:

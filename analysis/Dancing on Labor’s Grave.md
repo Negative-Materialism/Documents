@@ -1,6 +1,6 @@
 ---
 title: Dancing on Labor’s Grave
-description: Attacking the _National Review_'s celebratory obituary for organized labor.
+description: Attacking the National Review's celebratory obituary for organized labor.
 date: 2025-09-01
 draft: false
 tags:

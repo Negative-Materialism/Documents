@@ -7,7 +7,7 @@ toc: false
   <span class="blur">Materialism</span>
 </h1>
 
-Is a dialectical method using ***anti-synthesis*** to critique this stage of _contraction-capitalism_ and the class antagonisms within it. We hope to arm people with practical tools to improve their immediate material conditions, extend collective freedom, and build real class power.
+Is a dialectical method using ***anti-synthesis*** to critique this stage of _contraction-capitalism_ and the class antagonisms within it.
 
 ## Recent Analysis
 {{< recent-posts "analysis" >}}

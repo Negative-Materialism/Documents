@@ -18,7 +18,7 @@ author:
   - Spencer Thayer
 social-image: charlie_kirk.png
 ---
-##  Kirk’s cynical calculation that gun deaths were worth the price for liberty perfectly encapsulates the logic of capital. 
+##  Kirk’s calculation that gun deaths were worth the price of liberty perfectly mimics the irony of capitalism. 
 
 {{< image src="charlie_kirk.png" alt="Charlie Kirk was assassinated on September 10th, 2025" >}}
 

@@ -14,11 +14,11 @@ categories:
   - analysis
 author:
   - Spencer Thayer
-social-image: peace-vigil.jpg
+social-image: peace-the_fascist_rebranding_of_ermpire.webp
 ---
 ## Trump’s purge of a four-decade peace vigil and the revival of “war” branding reveal fascism’s reliance on erasure, spectacle, and militarized obedience.
 
-{{< image src="peace-vigil.jpg" alt="Concepcion Picciotto, also known as Conchita or Connie, is seen at her daily protest in front of the White House on March 5, 2010 in Washington, DC. Picciotto lived in the small camp on Lafayette Square directly opposite the presidential mansion since August 1, 1981 in protest of nuclear arms."
+{{< image src="the_fascist_rebranding_of_ermpire.webp" alt="Concepcion Picciotto, also known as Conchita or Connie, is seen at her daily protest in front of the White House on March 5, 2010 in Washington, DC. Picciotto lived in the small camp on Lafayette Square directly opposite the presidential mansion since August 1, 1981 in protest of nuclear arms."
 credits="AFP/Getty Images" >}}
 
 A tent once stood across from the White House, quiet but insistent. It was not decoration; it was indictment. It posed the oldest political question in its simplest form: why must power rest on the threat of organized death? For forty-four years it embodied memory against forgetting, conscience against empire. Its destruction was not housekeeping but political theater. By dismantling the vigil while simultaneously rebranding the “Department of Defense” as the “Department of War,” the state announced its direction openly. Dissent will be cleared. War will be celebrated. The sequence is not coincidence,  it is fascist choreography.

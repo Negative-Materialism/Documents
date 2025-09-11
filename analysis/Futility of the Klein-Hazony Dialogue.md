@@ -13,6 +13,7 @@ categories:
   - analysis
 author:
   - Spencer Thayer
+social-image: futility_of_the_klein_hazony_dialogue.webp
 ---
 ## Liberalism cannot defeat Fascism in a polite debate.
 

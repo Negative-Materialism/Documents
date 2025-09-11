@@ -16,11 +16,11 @@ categories:
   - analysis
 author:
   - Spencer Thayer
-social-image: charlie_kirk.png
+social-image: rest_in_piss_charlie_kirk.webp
 ---
 ##  Kirk’s calculation that gun deaths were worth the price of liberty perfectly mimics the irony of capitalism. 
 
-{{< image src="charlie_kirk.png" alt="Charlie Kirk was assassinated on September 10th, 2025" >}}
+{{< image src="rest_in_piss_charlie_kirk.webp" alt="Charlie Kirk was assassinated on September 10th, 2025" >}}
 
 The bourgeois press weeps for a fallen ideologue, framing the demise of Charlie Kirk as a tragedy of political violence. Let’s be honest, this wasn’t a tragedy. His assassination was the consequence of his own reactionary political ideology steeped in the rhetoric of violence. With this in mind, we must analyze this event not with liberal sentimentality and pearl clutching currently being bandied about, but with a materialist rigor that doesn’t moralize fallen reprobates. Kirk’s end was the logical conclusion of the very forces he unleashed, a violent symptom of a social order in a state of advanced decay. He lived by the gun, ideologically speaking, and he perished by it.
 

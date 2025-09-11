@@ -32,7 +32,7 @@ The dialectic is a merciless process. A force, once unleashed, inevitably calls 
 
 > “We have to be viscous, just like they are. It’s the only thing they understand.”
 
-This quote is ironically from a [post](https://x.com/charliekirk11/status/1965458939644109294) the day before his assassination. This viscousness was turned back on one of its most vocal right-wing proponents. In a way this is praxis, the unity of theory and practice, in its most brutal and direct form. His ideology became the material force that destroyed him.
+This quote from his Twitter [post](https://x.com/charliekirk11/status/1965458939644109294) the day before his assassination was a call to action, an act that was turned back on its most vocal proponent. In a way his death was his own praxis, the unity of theory and practice, in its most brutal and direct form. His ideology of unrestrained viscousness became the force that destroyed him.
 
 To fully grasp the American obsession with firearms that Kirk so effectively manipulated, one must understand the concept of commodity fetishism. The gun is not merely a tool, it is a fetishized object, imbued by bourgeois ideology with mystical powers of freedom, sovereignty, and security. This fetishism obscures the real social relations of its production and its function as an instrument of class society. It appears as a sacred relic of liberty, detached from the systemic violence it perpetuates. This is how a rational-sounding argument can be made for accepting thousands of deaths as a “prudent deal.” The real, material horror of a child’s death is rendered abstract, less important than the worship of a fetishized commodity and the ideology it represents.
 

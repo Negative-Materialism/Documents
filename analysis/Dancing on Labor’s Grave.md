@@ -14,8 +14,11 @@ categories:
   - analysis
 author:
   - Spencer Thayer
+social-image: dancing_on_labors_grave.webp
 ---
 ## The _National Review_ bootlickers were at it again.
+
+{{< image src="dancing_on_labors_grave.webp" >}}
 
 > What the _National Review_ declares dead is not the union itself, but a failed model of American unionism. The power to resist still remains in the hands and minds of workers everywhere. It is simply waiting to be rediscovered.
 

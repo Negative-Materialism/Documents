@@ -14,7 +14,7 @@ categories:
   - analysis
 author:
   - Spencer Thayer
-social-image: peace-the_fascist_rebranding_of_ermpire.webp
+social-image: the_fascist_rebranding_of_ermpire.webp
 ---
 ## Trump’s purge of a four-decade peace vigil and the revival of “war” branding reveal fascism’s reliance on erasure, spectacle, and militarized obedience.
 

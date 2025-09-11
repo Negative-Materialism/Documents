@@ -16,7 +16,7 @@ categories:
   - analysis
 author:
   - Spencer Thayer
-social—image: xueqins_blood_libel.webp
+social-image: xueqins_blood_libel.webp
 ---
 ## Israel's administration of a genocide is not a sacred rite.
 

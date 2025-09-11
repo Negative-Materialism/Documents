@@ -43,4 +43,4 @@ The christofascists that produced Kirk will simply find another to take his plac
 
 Our task is not to target individual personifications of economic categories but to abolish the categories of class society itself. Nor should our goal be a form of self-sabotage where we push for the disarmament of the people while Trump builds a fascist cage around us. No, this moment requires the patient work of education, agitation, and organization to build mobilized class consciousness. The worker must learn to see that their enemy is not a single loudmouthed pundit, but the entire system of wage labor and private property. So, let the liberals perform their empty rituals of mourning and let the fascists attempt to construct their martyr. We understand that Kirk’s death was as meaningless as his life and that this incident is merely another crack appearing in the facade of a dying social order.
 
-Rest in piss you cowardly fuck.
+Rest in piss you sniveling fuck.

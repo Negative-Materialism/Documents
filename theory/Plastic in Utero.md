@@ -8,9 +8,9 @@ tags:
   - anarchism
   - political-theory
   - climate-crisis
-  - capitalism
   - eco-politics
   - praxis
+  - capitalism
 categories:
   - theory
 author:

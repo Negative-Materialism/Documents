@@ -8,7 +8,7 @@ toc: false
 </h1>
 
 Is a dialectical method using ***anti-synthesis*** to critique this stage of _contraction-capitalism_ and the class antagonisms within it.<br/>
-## The Theory
+## Theory
 {{< recent-posts "theory" >}}
-## Recent Analysis
+## Analysis
 {{< recent-posts "analysis" >}}

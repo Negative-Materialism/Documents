@@ -7,8 +7,8 @@ toc: false
   <span class="blur">Materialism</span>
 </h1>
 
-Is a dialectical method using ***anti-synthesis*** to critique this stage of _contraction-capitalism_ and the class antagonisms within it.
-# The Theory
+Is a dialectical method using ***anti-synthesis*** to critique this stage of _contraction-capitalism_ and the class antagonisms within it.<br/>
+## The Theory
 {{< recent-posts "theory" >}}
 ## Recent Analysis
 {{< recent-posts "analysis" >}}

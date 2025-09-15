@@ -1,0 +1,87 @@
+#!/bin/bash
+
+clear;
+
+webimg() {
+  local OPTIND width height scale quality method lossless cmd_bin resize_params file target
+  # resolve the directory where this script lives (works via symlinks and Finder)
+  local SOURCE
+  SOURCE="${BASH_SOURCE[0]}"
+  local DIR
+  while [ -h "$SOURCE" ]; do
+    DIR="$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )"
+    SOURCE="$(readlink "$SOURCE")"
+    [[ $SOURCE != /* ]] && SOURCE="$DIR/$SOURCE"
+  done
+  local SCRIPT_DIR
+  SCRIPT_DIR="$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )"
+
+  # defaults
+  width=1056  # default max width
+  quality=80
+  method=4
+  lossless=false
+  resize_params=()
+
+  # parse flags: -w WIDTH, -h HEIGHT, -s SCALE, -q QUALITY, -m METHOD, -l (lossless)
+  while getopts "w:h:s:q:m:l" opt; do
+    case $opt in
+      w) width=$OPTARG ;;
+      h) height=$OPTARG ;;
+      s) scale=$OPTARG ;;
+      q) quality=$OPTARG ;;
+      m) method=$OPTARG ;;
+      l) lossless=true ;;
+      *) 
+        echo "Usage: webimg [-w WIDTH] [-h HEIGHT] [-s SCALE] [-q QUALITY] [-m METHOD] [-l]"
+        return 1
+        ;;
+    esac
+  done
+  shift $((OPTIND -1))
+
+  # build resize parameters (scale takes precedence)
+  if [[ -n $scale ]]; then
+    resize_params=(-resize "${scale}x${scale}")
+  elif [[ -n $width || -n $height ]]; then
+    # Use width only to maintain aspect ratio (1056x means max width 1056, height auto)
+    resize_params=(-resize "${width:-}x${height:-}>")
+  fi
+
+  # choose ImageMagick command
+  if command -v magick >/dev/null 2>&1; then
+    cmd_bin=(magick)
+  else
+    cmd_bin=(convert)
+  fi
+
+  # find all images in this script's folder (excluding existing .webp files) and convert
+  find "$SCRIPT_DIR" -type f \( \
+      -iname '*.jpg' -o -iname '*.jpeg' \
+      -o -iname '*.png' -o -iname '*.gif' \
+      -o -iname '*.tif' -o -iname '*.tiff' \
+      -o -iname '*.bmp' \
+    \) ! -iname '*.webp' -print0 | while IFS= read -r -d $'\0' file; do
+
+    # save webp in the same folder as the source image
+    target="${file%.*}.webp"
+    
+    echo "Converting: $file → $target"
+
+    if [[ $lossless == true ]]; then
+      "${cmd_bin[@]}" "$file" "${resize_params[@]}" \
+        -define webp:lossless=true \
+        "$target"
+    else
+      "${cmd_bin[@]}" "$file" "${resize_params[@]}" \
+        -quality "$quality" \
+        -define webp:method="$method" \
+        "$target"
+    fi
+  done
+  
+  echo "WebP conversion complete!"
+}
+
+# Call the function with all command line arguments
+webimg "$@"

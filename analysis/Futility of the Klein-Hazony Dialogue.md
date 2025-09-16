@@ -19,7 +19,7 @@ social-image: futility_of_the_klein_hazony_dialogue.webp
 
 {{< youtube "Qa_PCNgW79E" "The Man Driving the Nationalist Revival on the Right" >}}
 
-> Since publication of this essay Ezra Klein has continued [manufacturing his fascist legacy](/analysis/manufacturing_his_fascist_legacy).
+> Since publication of this essay Ezra Klein has continued [manufacturing his fascist legacy](https://negativematerialism.press/analysis/manufacturing-his-fascist-legacy/).
 
 The exchange between **Ezra Klein** and **Yoram Hazony** is not really a debate about the “soul of the nation.” It is a display of a system in deep crisis. What they each present in this debate are rival management strategies for the decline of capitalism dressed up as a polite philosophical  discussion. Klein in this farse represents a collapsing liberal order that insists debate and reason can guide us back to stability. Hazony represents the emerging fascism that promises to reorder capitalism through hierarchy, exclusion, and coercion. Neither offers liberation. Both aim to preserve the system of exploitation, Klein with the fading language of “shared principles” and Hazony with the blunt discipline of authoritarian nationalism.  
 

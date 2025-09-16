@@ -1,6 +1,6 @@
 ---
 title: Manufacturing His Fascist Legacy
-description: How Ezra Klein's dialogue with Ben Shapiro legitimizes the fascist project.
+description: Ezra Klein’s new career turn is to legitimize the fascist coup.
 date: 2025-09-16
 draft: false
 tags:

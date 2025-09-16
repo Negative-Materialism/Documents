@@ -17,7 +17,7 @@ webimg() {
   SCRIPT_DIR="$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )"
 
   # defaults
-  width=1056  # default max width
+  width=1280  # default max width
   quality=80
   method=4
   lossless=false

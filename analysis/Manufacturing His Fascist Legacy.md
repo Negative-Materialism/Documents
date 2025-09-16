@@ -1,6 +1,6 @@
 ---
 title: Manufacturing His Fascist Legacy
-description: How Ezra Klein's dialogue with Ben Shapiro legitimizes the fascist project.
+description: Ezra Klein’s new career turn is to legitimize the fascist coup.
 date: 2025-09-16
 draft: false
 tags:
@@ -13,7 +13,9 @@ categories:
 author: Spencer Thayer
 social-image: manufacturing_his_fascist_legacy.webp
 ---
-## Ezra Klein’s dialogue with Ben Shapiro legitimizes the fascist project and secures his career in the coming collapse.
+## Ezra Klein’s new career turn is to legitimize the fascist coup.
+
+{{< youtube "EAqG00FUOK8" "We Are Going to Have to Live Here With Each Other" >}}
 
   The recent Ezra Klein–Ben Shapiro conversation reveals precisely the fatal flaw I identified in [Futility of The Klein-Hazony Dialogue](https://negativematerialism.press/analysis/futility-of-the-klein-hazony-dialogue/), the liberal delusion that fascism can be debated into civility. Klein’s framing of Charlie Kirk’s murder makes this clear. While expressing grief, he simultaneously whitewashes Kirk’s role as a fascist ideologue by treating his death as equivalent to criticism of his politics. This rhetorical sleight of hand collapses the distinction between a fascist leader being killed and the entirely legitimate denunciation of his movement. It is liberalism’s stock-in-trade, to transform the fight against fascism into an issue of civility, as though fascism were a simple matter of tone.
 

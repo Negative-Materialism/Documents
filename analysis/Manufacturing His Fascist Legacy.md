@@ -13,7 +13,7 @@ categories:
 author: Spencer Thayer
 social-image: manufacturing_his_fascist_legacy.webp
 ---
-## Ezra Klein’s dialogue with Ben Shapiro legitimizes the fascist project and secures his career in the coming collapse.
+## Ezra Klein’s new career turn is to legitimize the fascist coup.
 
 {{< youtube "EAqG00FUOK8" "We Are Going to Have to Live Here With Each Other" >}}
 

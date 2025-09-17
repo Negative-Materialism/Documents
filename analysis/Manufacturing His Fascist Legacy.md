@@ -18,6 +18,9 @@ social-image: manufacturing-his-fascist-legacy.webp
 
 {{< youtube "EAqG00FUOK8" "We Are Going to Have to Live Here With Each Other" >}}
 
+
+Cxxxxxxx
+
   The recent Ezra Klein–Ben Shapiro conversation reveals precisely the fatal flaw I identified in [Futility of The Klein-Hazony Dialogue](https://negativematerialism.press/analysis/futility-of-the-klein-hazony-dialogue/), the liberal delusion that fascism can be debated into civility. Klein’s framing of Charlie Kirk’s murder makes this clear. While expressing grief, he simultaneously whitewashes Kirk’s role as a fascist ideologue by treating his death as equivalent to criticism of his politics. This rhetorical sleight of hand collapses the distinction between a fascist leader being killed and the entirely legitimate denunciation of his movement. It is liberalism’s stock-in-trade to transform the fight against fascism into an issue of civility, as though fascism were a simple matter of tone.
 
 Kirk, like Shapiro and Trump, did not merely express “conservative” opinions, he openly organized for fascist politics. Trump, restored to power with nearly half the electorate behind him, embodies the fascist project today. Yet Klein insists that “we are going to have to live with one another,” as though fascists were just another community of opinionated citizens. This is the essence of liberalism’s cowardice, it confuses tolerance with survival. But fascism is not a viewpoint to be respected, it is an existential threat to be annihilated. To suggest we must “find what we can recognize in one another” with our would-be executioners is not bridge-building. It is surrender.
